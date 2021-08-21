@@ -1,3 +1,13 @@
+# Installation and running the app
+Run `yarn` to install libraries
+
+Run `yarn dev` to start server and client*
+
+Run `yarn test` to run tests
+
+*client runs on standard port 3000, server runs on 8080
+
+
 # Front-end engineering challenge
 
 This challenge is used by Didomi for evaluating candidates for front-end development positions.
